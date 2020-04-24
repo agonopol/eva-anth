@@ -1,0 +1,3 @@
+[submodule "themes/hugo-highlights"]
+	path = themes/hugo-highlights
+	url = https://github.com/schmanat/hugo-highlights-theme
