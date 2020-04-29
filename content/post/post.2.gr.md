@@ -1,5 +1,5 @@
 +++
-title = 'New York City, New York'
+title = 'Νέα Υόρκη, Νέα Υόρκη'
 slug = 'nyc'
 image = 'img/ny/0517.jpg'
 date = "2020-04-28T00:00:00"

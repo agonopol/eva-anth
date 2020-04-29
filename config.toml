@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Evangelia Verbi Athryridou"
 theme = "massively"
 
+disableKinds = ['taxonomy', 'taxonomyTerm', 'section']
+
 [languages]
 [languages.en]
   languageName = "English"
