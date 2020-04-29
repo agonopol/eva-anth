@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://evangelia-verbi-athyridou.netlify.app/"
 languageCode = "en-us"
 title = "Evangelia Verbi Athryridou"
 theme = "massively"
